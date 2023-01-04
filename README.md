@@ -1,4 +1,4 @@
-<include a CircleCI status badge, here>
+https://app.circleci.com/settings/project/images/success-badge.svg
 
 ## Project Overview
 
