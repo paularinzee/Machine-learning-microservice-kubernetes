@@ -1,5 +1,4 @@
-https://app.circleci.com/settings/project/images/success-badge.svg
-
+[![CircleCI](https://dl.circleci.com/status-badge/img/gh/paularinzee/microservice-kubernetes/tree/master.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/paularinzee/microservice-kubernetes/tree/master)
 ## Project Overview
 
 This project aims at operationalize a Machine Learning Microservice API. 
